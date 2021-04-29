@@ -1,0 +1,2 @@
+# Delete_Snapshots_Between_StartDate_and_EndDate
+# Python script to delete the snapshots in between the dates START_DATE &amp; END_DATE # This script will delete the snapshots owned by the aws account number, env AWS_ACCOUNT_NUMBER var # Export all the below env vars before running the script OR edit the default value # 💡 IMPORTANT: Set the value of DRY_RUN env var to 'FALSE' to delete the snapshots
